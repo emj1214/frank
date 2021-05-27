@@ -19,6 +19,24 @@ h2 {
     font-size: 100px;
 }
 
+h3 {
+    display: block;
+    color:white;
+    text-align: left;
+    padding-left: 24px;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+p {
+    display: block;
+    color:white;
+    text-align: left;
+    padding-left: 24px;
+    text-decoration: none;
+    font-size: 24px;
+}
+
 .pbackground {
     background-color:rgba(0, 0, 0, 0.5);
 }
@@ -30,6 +48,10 @@ img{
 
 .space {
     height: 25%;
+}
+
+.smallspace {
+    height: 5%;
 }
 
 .fa {
