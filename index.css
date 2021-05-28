@@ -37,8 +37,9 @@ p {
     font-size: 24px;
 }
 
-.pbackground {
-    background-color:rgba(0, 0, 0, 0.5);
+iframe {
+    padding: 24px;
+    border: none;
 }
 
 img{
