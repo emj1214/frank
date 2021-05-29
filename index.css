@@ -24,6 +24,8 @@ h3 {
     color:white;
     text-align: left;
     padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 24px;
     text-decoration: none;
     font-size: 40px;
 }
@@ -33,6 +35,7 @@ h4 {
     color:white;
     text-align: center;
     padding-left: 24px;
+    padding-right: 24px;
     text-decoration: none;
     font-style: italic;
     font-size: 40px;
@@ -43,8 +46,10 @@ p {
     color:white;
     text-align: left;
     padding-left: 24px;
+    padding-right: 24px;
     text-decoration: none;
     font-size: 24px;
+    line-height: 1.5;
 }
 
 ul {
@@ -54,6 +59,8 @@ ul {
     padding-left: 24px;
     font-size: 24px;
     margin-left: 24px;
+    margin-right: 24px;
+    line-height: 1.5;
 }
 
 iframe {
@@ -206,4 +213,8 @@ body {
 
 .square {
     list-style-type: square;
+}
+
+a {
+    color: white;
 }
