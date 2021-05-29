@@ -10,6 +10,15 @@ html {
     margin-bottom: 0px;
 }
 
+h1 {
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 72px;
+}
+
 h2 {
     display: block;
     color:white;
